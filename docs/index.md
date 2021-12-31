@@ -10,6 +10,7 @@ Petit point important, l'ensemble des jeux suivants peuvent se jouer directement
 - [A fake artist goes to New York](./jeux/a_fake_artist_goes_to_new_york.md)
 - [Blood at the Clocktower](./jeux/blood_at_the_clocktower.md)
 - [Codenames](./jeux/codenames.md)
+- [Decrypto](./jeux/decrypto.md)
 - [Gartic Phone](./jeux/Gartic Phone)
 - [Secret Hitler](./jeux/secret_hitler.md)
 - [Skribbl.io](./jeux/skribblio.md)
