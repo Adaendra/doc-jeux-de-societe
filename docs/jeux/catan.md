@@ -32,3 +32,5 @@ Les points sont accumulés en construisant des colonies et des villes, en ayant 
 #### Informations complémentaires
 - [Fiche BoardGameGeek](https://boardgamegeek.com/boardgame/13/catan)
 
+#### Vidéos
+- [Explication des règles - Es-tu Game?](https://www.youtube.com/watch?v=UTIXgkm32oM)
