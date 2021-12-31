@@ -4999,7 +4999,7 @@ code.code-large, .rst-content tt.code-large {
     padding: .809em;
     margin-bottom: .809em;
     z-index: 200;
-    background-color: #ff0000;
+    background-color: var(--blue_mana);
     text-align: center;
     padding: .809em;
     display: block;
