@@ -17,7 +17,7 @@ Les joueurs sont séparés en deux équipes. Devant eux sont disposées 25 carte
 ## Description
 Les deux « espions » de chaque équipe se placent côte à côte de façon à voir la carte qui indique quels mots ils doivent faire deviner. En face se trouvent leurs coéquipiers, et entre les deux 25 cartes réparties en 5 rangées de 5.
 
-L'équipe qui commence a le désavantage de devoir faire deviner un mot de plus que l'autre équipe (9 au lieu de 8).
+L'équipe qui commence a le désavantage de devoir faire deviner un mot de plus que l'autre équipe *(9 au lieu de 8)*.
 
 À chaque tour, l'« espion » de l'équipe donne un indice (constitué d'un mot), ainsi que le nombre de mots qu'il pense faire deviner avec cet indice. Par exemple, il peut dire « banane 3 » pour faire deviner les mots « fruit », « singe » et « jaune ». Ses coéquipiers désignent alors des mots un par un, qu'ils pensent correspondre à l'indice. Quatre cas de figure :
 

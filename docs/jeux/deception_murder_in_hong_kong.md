@@ -38,7 +38,7 @@ Lorsque le crime a lieu, le meurtrier choisit 1 carte Indice et 1 carte Moyen co
 Le meurtrier tente de cacher son rôle et cherche un bouc émissaire. Même s'il est identifié, le meurtrier remporte toujours la partie si personne n'identifie correctement la "preuve" et l'"arme du crime".
 
 ##### Enquêteurs X8
-Pour résoudre le crime, les enquêteurs doivent analyser les indices donnés par le médecin légiste. Tant que l'un des enquêteurs identifie correctement la "preuve" et l'"arme du crime", le meurtrier est arrêté et les enquêteurs remportent la partie (comme le fait le spécialiste de la police scientifique).
+Pour résoudre le crime, les enquêteurs doivent analyser les indices donnés par le médecin légiste. Tant que l'un des enquêteurs identifie correctement la "preuve" et l'"arme du crime", le meurtrier est arrêté et les enquêteurs remportent la partie *(comme le fait le spécialiste de la police scientifique)*.
 
 N'oubliez pas que le meurtrier *(et son complice)* est parmi les enquêteurs! Les enquêteurs innocents doivent faire un effort vigoureux pour se défendre contre les fausses accusations.
 

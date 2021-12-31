@@ -23,7 +23,7 @@ Un démon est en liberté, tuant la nuit et déguisé en humain le jour. Certain
 
 Les bons villageois vont-ils résoudre le puzzle à temps pour exécuter le vrai démon et se sauver eux-mêmes ? Ou le mal envahira-t-il ce village autrefois paisible ?
 
-**Blood on the Clocktower** est un jeu de bluff pour jouer entre 5 à 20 joueurs dans des équipes adverses du Bien et du Mal, supervisé par un joueur **Conteur* qui mène l'action et prend des décisions cruciales.
+**Blood on the Clocktower** est un jeu de bluff pour jouer entre 5 à 20 joueurs dans des équipes adverses du Bien et du Mal, supervisé par un joueur **Conteur** qui mène l'action et prend des décisions cruciales.
 
 Au cours d'une phase de « journée », les joueurs socialisent ouvertement et chuchotent en privé pour échanger des connaissances ou répandre des mensonges, aboutissant à l'exécution d'un joueur si une majorité les soupçonne d'être Maléfiques. D'une « nuit », les joueurs ferment les yeux et sont réveillés un par un par le conteur pour recueillir des informations, semer le trouble ou tuer.
 
