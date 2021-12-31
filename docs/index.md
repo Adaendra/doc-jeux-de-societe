@@ -11,6 +11,7 @@ Petit point important, l'ensemble des jeux suivants peuvent se jouer directement
 - [Blood at the Clocktower](./jeux/blood_at_the_clocktower.md)
 - [Codenames](./jeux/codenames.md)
 - [Decrypto](./jeux/decrypto.md)
+- [Deception: Murder in Hong Kong](./jeux/deception_murder_in_hong_kong.md)
 - [Gartic Phone](./jeux/Gartic Phone)
 - [Secret Hitler](./jeux/secret_hitler.md)
 - [Skribbl.io](./jeux/skribblio.md)
