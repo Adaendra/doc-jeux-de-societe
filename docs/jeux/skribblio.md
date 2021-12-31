@@ -7,6 +7,8 @@
 ![Dessin](https://img.shields.io/badge/-Dessin-%23444444)
 ![Déduction](https://img.shields.io/badge/-Déduction-%23444444)
 
+![](img/skribblio.png)
+
 ## Description
 Les joueurs passent tour à tour au tableau pour dessiner quelque chose.
 

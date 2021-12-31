@@ -7,6 +7,8 @@
 ![Carte](https://img.shields.io/badge/-Carte-%23444444)
 ![Déduction](https://img.shields.io/badge/-Déduction-%23444444)
 
+![](img/codenames.jpg)
+
 ## Description rapide
 Les joueurs sont séparés en deux équipes. Devant eux sont disposées 25 cartes comportant un mot. Une personne de chaque équipe est l'« espion » et doit faire deviner à ses partenaires une partie de ces mots, mais sans jamais qu'ils ne tombent sur le mot « assassin ».
 

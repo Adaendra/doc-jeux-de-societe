@@ -7,6 +7,8 @@
 ![Stratégie](https://img.shields.io/badge/-Stratégie-%23444444)
 ![Bluff & Déduction](https://img.shields.io/badge/-Bluff%20&%20Déduction-%23444444)
 
+![](img/whitehall_mystery.jpg)
+
 ## Description rapide
 Dans le Londres du 19è siècle, Jack l'éventreur sévit dans les rues et des dépouilles de corps sont retrouvées régulièrement. Est-ce que la police réussira à arrêter Jack avant que ça soit trop tard?
 

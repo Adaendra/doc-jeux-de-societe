@@ -7,6 +7,8 @@
 ![Dessin](https://img.shields.io/badge/-Dessin-%23444444)
 ![Bluff & Déduction](https://img.shields.io/badge/-Bluff%20&%20Déduction-%23444444)
 
+![](img/a_fake_artist_goes_to_new_york.png)
+
 ## Description rapide
 Vous devez tous participer au dessin de quelque chose *(objet, film...)*, mais l'un d'entre vous ne sait pas quoi. Saurez-vous le découvrir?
 

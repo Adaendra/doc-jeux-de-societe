@@ -7,6 +7,8 @@
 ![Stratégie](https://img.shields.io/badge/-Stratégie-%23444444)
 ![Bluff & Déduction](https://img.shields.io/badge/-Bluff%20&%20Déduction-%23444444)
 
+![](img/blood_on_the_clocktower.jpg)
+
 ## Description rapide
 Vous incarnez des villageois terrorisé par un démon qui se déguise le jour et tue la nuit. Avec les autres villageois et vos pouvoirs, menez l'enquête pour tenter de découvrir et tuer le démon avant qu'il ne soit trop tard.
 

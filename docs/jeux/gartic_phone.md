@@ -6,6 +6,8 @@
 ##### Catégories
 ![Dessin](https://img.shields.io/badge/-Dessin-%23444444)
 
+![](img/gartic_phone.png)
+
 ## Description
 Equivalent du téléphone pictionnary.
 
