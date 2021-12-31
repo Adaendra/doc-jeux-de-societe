@@ -1,7 +1,7 @@
 # Dixit
 
-![3 à 4 joueurs](https://img.shields.io/badge/-3%20à%204%20joueurs%20-%23444444)
-![60-120 min](https://img.shields.io/badge/-60--120%20min%20-%23444444)
+![3 à 6 joueurs](https://img.shields.io/badge/-3%20à%206%20joueurs%20-%23444444)
+![30 min](https://img.shields.io/badge/-30%20min%20-%23444444)
 
 ##### Catégories
 ![Carte](https://img.shields.io/badge/-Carte-%23444444)
