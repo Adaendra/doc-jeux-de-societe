@@ -9,6 +9,7 @@
 
 ## Description rapide
 Vous faites tous parti du parlement allemand dans les années 30 et Hitler se cache parmi vous. Répartis de manière secrète dans les camps politiques, votre but est de :
+
 - voter 5 lois libérales ou tuer Hitler si vous êtes un libéral
 - voter 6 lois fascistes ou de faire élire Hitler chancelier après que 3 fois fascistes aient été promues.
 

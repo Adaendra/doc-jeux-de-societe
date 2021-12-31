@@ -13,6 +13,7 @@
 Les joueurs passent tour à tour au tableau pour dessiner quelque chose.
 
 Votre but :
+
 - si vous dessinez : faire en sorte que le plus de personnes devinnent ce que vous avez dessiné
 - si vous cherchez : de trouver le mot le plus vite possible
 
