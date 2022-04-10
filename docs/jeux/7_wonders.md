@@ -9,7 +9,7 @@
 ![](img/7wonders.jpg)
 
 ## Description rapide
-
+Développez votre civilisation et construisez des merveilles.
 
 ---
 
